@@ -1,0 +1,9 @@
+sponsor_type,overall_status,trials,pct
+Industry,COMPLETED,561,88.8
+Industry,TERMINATED,52,8.2
+Industry,WITHDRAWN,17,2.7
+Industry,SUSPENDED,2,0.3
+Non-industry,COMPLETED,4825,91.2
+Non-industry,TERMINATED,290,5.5
+Non-industry,WITHDRAWN,157,3.0
+Non-industry,SUSPENDED,16,0.3
