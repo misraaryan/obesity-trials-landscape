@@ -1,0 +1,93 @@
+chart,label,series,year,value
+1 Industry share,2010,Industry share of new trials (%),2010,8.5
+1 Industry share,2010,New interventional trials,2010,412.0
+1 Industry share,2011,Industry share of new trials (%),2011,8.5
+1 Industry share,2011,New interventional trials,2011,425.0
+1 Industry share,2012,Industry share of new trials (%),2012,9.0
+1 Industry share,2012,New interventional trials,2012,500.0
+1 Industry share,2013,Industry share of new trials (%),2013,7.4
+1 Industry share,2013,New interventional trials,2013,500.0
+1 Industry share,2014,Industry share of new trials (%),2014,8.0
+1 Industry share,2014,New interventional trials,2014,522.0
+1 Industry share,2015,Industry share of new trials (%),2015,9.4
+1 Industry share,2015,New interventional trials,2015,584.0
+1 Industry share,2016,Industry share of new trials (%),2016,8.5
+1 Industry share,2016,New interventional trials,2016,622.0
+1 Industry share,2017,Industry share of new trials (%),2017,9.0
+1 Industry share,2017,New interventional trials,2017,631.0
+1 Industry share,2018,Industry share of new trials (%),2018,9.6
+1 Industry share,2018,New interventional trials,2018,636.0
+1 Industry share,2019,Industry share of new trials (%),2019,11.0
+1 Industry share,2019,New interventional trials,2019,634.0
+1 Industry share,2020,Industry share of new trials (%),2020,10.0
+1 Industry share,2020,New interventional trials,2020,501.0
+1 Industry share,2021,Industry share of new trials (%),2021,11.3
+1 Industry share,2021,New interventional trials,2021,663.0
+1 Industry share,2022,Industry share of new trials (%),2022,12.1
+1 Industry share,2022,New interventional trials,2022,662.0
+1 Industry share,2023,Industry share of new trials (%),2023,14.1
+1 Industry share,2023,New interventional trials,2023,799.0
+1 Industry share,2024,Industry share of new trials (%),2024,22.0
+1 Industry share,2024,New interventional trials,2024,801.0
+1 Industry share,2025,Industry share of new trials (%),2025,26.0
+1 Industry share,2025,New interventional trials,2025,897.0
+2 Drug class momentum,GLP-1 receptor agonist,2010-2017,,106.0
+2 Drug class momentum,GLP-1 receptor agonist,2018-2021,,75.0
+2 Drug class momentum,GLP-1 receptor agonist,2022 onward,,202.0
+2 Drug class momentum,GIP/GLP-1 dual agonist,2010-2017,,0.0
+2 Drug class momentum,GIP/GLP-1 dual agonist,2018-2021,,10.0
+2 Drug class momentum,GIP/GLP-1 dual agonist,2022 onward,,135.0
+2 Drug class momentum,Older anti-obesity drug,2010-2017,,45.0
+2 Drug class momentum,Older anti-obesity drug,2018-2021,,22.0
+2 Drug class momentum,Older anti-obesity drug,2022 onward,,31.0
+2 Drug class momentum,GLP-1/glucagon dual agonist,2010-2017,,3.0
+2 Drug class momentum,GLP-1/glucagon dual agonist,2018-2021,,16.0
+2 Drug class momentum,GLP-1/glucagon dual agonist,2022 onward,,46.0
+2 Drug class momentum,Oral small-molecule GLP-1,2010-2017,,0.0
+2 Drug class momentum,Oral small-molecule GLP-1,2018-2021,,7.0
+2 Drug class momentum,Oral small-molecule GLP-1,2022 onward,,45.0
+2 Drug class momentum,Amylin analogue,2010-2017,,3.0
+2 Drug class momentum,Amylin analogue,2018-2021,,3.0
+2 Drug class momentum,Amylin analogue,2022 onward,,34.0
+2 Drug class momentum,GLP-1 RA + GIPR antagonist,2010-2017,,0.0
+2 Drug class momentum,GLP-1 RA + GIPR antagonist,2018-2021,,1.0
+2 Drug class momentum,GLP-1 RA + GIPR antagonist,2022 onward,,28.0
+2 Drug class momentum,GLP-1/amylin co-agonist,2010-2017,,0.0
+2 Drug class momentum,GLP-1/amylin co-agonist,2018-2021,,0.0
+2 Drug class momentum,GLP-1/amylin co-agonist,2022 onward,,28.0
+2 Drug class momentum,Amylin + GLP-1 combination,2010-2017,,0.0
+2 Drug class momentum,Amylin + GLP-1 combination,2018-2021,,3.0
+2 Drug class momentum,Amylin + GLP-1 combination,2022 onward,,22.0
+2 Drug class momentum,MC4R agonist,2010-2017,,7.0
+2 Drug class momentum,MC4R agonist,2018-2021,,6.0
+2 Drug class momentum,MC4R agonist,2022 onward,,8.0
+2 Drug class momentum,GLP-1/GIP/glucagon triple agonist,2010-2017,,0.0
+2 Drug class momentum,GLP-1/GIP/glucagon triple agonist,2018-2021,,1.0
+2 Drug class momentum,GLP-1/GIP/glucagon triple agonist,2022 onward,,16.0
+3 Home-grown vs imported,United States,Run only in this country,,299.0
+3 Home-grown vs imported,United States,Multi-country,,211.0
+3 Home-grown vs imported,China,Run only in this country,,207.0
+3 Home-grown vs imported,China,Multi-country,,50.0
+3 Home-grown vs imported,Japan,Run only in this country,,17.0
+3 Home-grown vs imported,Japan,Multi-country,,76.0
+3 Home-grown vs imported,South Korea,Run only in this country,,9.0
+3 Home-grown vs imported,South Korea,Multi-country,,46.0
+3 Home-grown vs imported,India,Run only in this country,,2.0
+3 Home-grown vs imported,India,Multi-country,,44.0
+3 Home-grown vs imported,Brazil,Run only in this country,,1.0
+3 Home-grown vs imported,Brazil,Multi-country,,44.0
+4 What India tests,Traditional medicine (AYUSH),Interventional trials in CTRI,,429.0
+4 What India tests,Yoga / exercise,Interventional trials in CTRI,,104.0
+4 What India tests,Other drug or product,Interventional trials in CTRI,,78.0
+4 What India tests,Other / unclear,Interventional trials in CTRI,,50.0
+4 What India tests,Diet / lifestyle,Interventional trials in CTRI,,39.0
+4 What India tests,Surgery / procedure,Interventional trials in CTRI,,39.0
+4 What India tests,Supplement / nutraceutical,Interventional trials in CTRI,,35.0
+4 What India tests,Anti-obesity drug (classified),Interventional trials in CTRI,,22.0
+5 Indian semaglutide Phase 3,Alkem Laboratories Limited,Phase 3,2025,1.0
+5 Indian semaglutide Phase 3,"Emcure Pharmaceuticals Ltd., India",Phase 3,2025,1.0
+5 Indian semaglutide Phase 3,Hetero Labs Limited,Phase 3,2025,1.0
+5 Indian semaglutide Phase 3,Natco Pharma Limited,Phase 3,2025,1.0
+5 Indian semaglutide Phase 3,Sun Pharmaceutical Industries Limited (SPIL),Phase 3,2025,1.0
+5 Indian semaglutide Phase 3,Zydus Lifesciences Limited,Phase 3,2025,1.0
+5 Indian semaglutide Phase 3,Macleods Pharmaceuticals Ltd,Phase 3,2026,1.0
