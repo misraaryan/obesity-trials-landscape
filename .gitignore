@@ -1,0 +1,7 @@
+# Raw ClinicalTrials.gov download (~60 MB) is re-created with src/01_download.py
+data/raw/studies.jsonl
+# SQLite database is rebuilt by the scripts
+data/processed/*.db
+__pycache__/
+.venv/
+.DS_Store
